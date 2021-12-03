@@ -1,0 +1,13 @@
+{
+  "name": "@blipntime/pragmaticruby",
+  "version": "1.0.0",
+  "description": "fucntionality by PR",
+  "main": "index.js",
+  "repository": "git@github.com:blipntime/pragmaticruby.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
